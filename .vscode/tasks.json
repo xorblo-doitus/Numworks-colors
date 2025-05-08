@@ -15,6 +15,15 @@
                 "kind": "build",
                 "isDefault": true
             },
-        }
+        },
+        {
+            "label": "Update dependencies",
+            "type": "shell",
+            "command": "&",
+            "args": [
+                "'${command:python.interpreterPath}'",
+                "${workspaceFolder}\\tasks\\update_dependencies.py"
+            ],
+        },
     ]
 }
