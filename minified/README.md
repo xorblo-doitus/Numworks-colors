@@ -1,6 +1,6 @@
 # Minified
 
-This [rename-me.py](rename-me.py) is a minified version of [/src/rename-me.py](/src/rename-me.py).
+This [colors.py](colors.py) is a minified version of [/src/colors.py](/src/colors.py).
 
 This can be useful as a Numworks calculator doesn't have as much memory space as a computer.
 
